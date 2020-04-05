@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="20.553051">
+<testcase classname="Reset functionality on login page of Application" name="Verification of reset button with numbers of credential" time="20.553051">
+<system-out><![CDATA[Given Open the Firefox and launch the application...........................passed
+When Enter the Username User1and Password password1.........................passed
+Then Reset the credential...................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
